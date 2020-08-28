@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ul,
+ol{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+:focus{
+    outline: 0;
+}
+
+.clear{
+    clear: both;
+}
