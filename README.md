@@ -1,2 +1,2 @@
 # cssFramework
-- Coming Soon
+- Custom Named Color Palette
