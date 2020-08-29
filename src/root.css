@@ -1,2 +1,19 @@
 :root{
+    --pureWhite: #ffffff;
+    --pureBlack: #000000;
+    --pureRed: #FF0000;
+    --pureGreen: #00FF00;
+    --pureBlue: #0000FF;
+    
+    --claretRed1: #820000;
+    --claretRed2: #AC0909;
+    --claretRed3: #BE3636;
+    --claretRed4: #C54E4E;
+    
+    --blue1: #A1CAFF;
+    --blue2: #6982F6;
+    --blue3: #464EF9;
+    --blue4: #190EF9;
+    --lightBlue1: #9FDEFF;
+    
 }
