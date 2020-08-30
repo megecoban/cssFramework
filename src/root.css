@@ -4,30 +4,33 @@
     --pureRed: #FF0000;
     --pureGreen: #00FF00;
     --pureBlue: #0000FF;
-    
+
+    --whiteGray: #EEEEEE;
+
     --claretRed1: #820000;
     --claretRed2: #AC0909;
     --claretRed3: #BE3636;
     --claretRed4: #C54E4E;
-    
-    --green1: #77dc6b;
-    
+
+    --green1: #77DC6B;
+
     --blue1: #A1CAFF;
     --blue2: #6982F6;
     --blue3: #464EF9;
     --blue4: #190EF9;
-    --blue5: #4f95ff;
+    --blue5: #4F95FF;
+    --blue6: #5D91E0;
     --lightBlue1: #9FDEFF;
-    
+
     --black1: #111111;
     --black2: #222222;
     --black3: #333333;
     --black4: #444444;
     --black5: #555555;
-    
-    
+
+
     --generalBorderRadius: 15px;
     --generalBorderRadius2: 5px;
-    
+
     --generalPadding: 5px;
 }
