@@ -17,7 +17,7 @@ input[type="reset"]{
 }
 
 .buttonBlue{
-    background-color: var(--blue5);
+    background: linear-gradient(to bottom, var(--blue5), var(--blue6));
 }
 .buttonGreen{
     background-color: var(--green1);
