@@ -1,3 +1,22 @@
+button,
+input[type="submit"],
+input[type="reset"]{
+    padding: var(--generalPadding);
+    font-size: 18px;
+    border: 1px solid var(--black2);
+    border-radius: var(--generalBorderRadius2);
+    color: var(--pureWhite);
+    background-color: var(--black5);
+}
+
+.buttonBlue{
+    background-color: var(--blue5);
+}
+.buttonGreen{
+    background-color: var(--green1);
+}
+
+
 .generalRadius{
     border-radius: var(--generalBorderRadius);
 }
