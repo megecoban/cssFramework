@@ -60,3 +60,29 @@ h5{
 h6{
 	font-size: 14px;
 }
+
+.specialForm1 button,
+.specialForm1 input[type="submit"],
+.specialForm1 input[type="reset"]{
+    background: linear-gradient(to bottom, var(--blue5), var(--blue6));
+}
+
+.specialForm1 input[type="text"],
+.specialForm1 input[type="password"]{
+    border: 0;
+    border-radius: 0;
+    border-bottom: 2px solid var(--black2);
+    outline: 0;
+    transition: border 250ms;
+}
+
+.specialForm1 input[type="text"]:disabled,
+.specialForm1 input[type="password"]:disabled{
+    background-color: var(--whiteGray);
+    color: var(--pureBlack);
+}
+
+.specialForm1 input[type="text"]:focus,
+.specialForm1 input[type="password"]:focus{
+    border-bottom: 2px solid var(--blue5);
+}
