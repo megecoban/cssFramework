@@ -1,10 +1,17 @@
 button,
 input[type="submit"],
-input[type="reset"]{
+input[type="reset"],
+input[type="text"],
+input[type="password"]{
     padding: var(--generalPadding);
     font-size: 18px;
     border: 1px solid var(--black2);
     border-radius: var(--generalBorderRadius2);
+}
+
+button,
+input[type="submit"],
+input[type="reset"]{
     color: var(--pureWhite);
     background-color: var(--black5);
 }
